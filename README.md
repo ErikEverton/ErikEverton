@@ -2,6 +2,8 @@
 
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikEverton&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikEverton)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 <div>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
